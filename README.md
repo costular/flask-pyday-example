@@ -7,7 +7,7 @@ La presentación se encuentra en la carpeta **slides**
 El ejercicio para los créditos ECTS consiste en desarrollar una API REST con Flask y Flask-RESTful.
 Hay libertad para escoger los modelos y la cantidad de las vistas. Los requisitos mínimos para el ejercicio son los siguientes:
 
-- Utilizar mínimo dos modelos
+- Utilizar mínimo dos modelos u objetos en Python (no es necesario usar una base de datos)
 - Utilizar como mínimo una vista o [Resource](https://flask-restful.readthedocs.io/en/0.3.5/quickstart.html#resourceful-routing)
 - Implementar dos métodos HTTP como mínimo en cada vista (GET, POST, PUT, PATCH, DELETE)
 - Devolver los datos en JSON.
